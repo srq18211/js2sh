@@ -1,2 +1,2 @@
-# js2shell
+# js2sh
 Jscode is converted to shell
